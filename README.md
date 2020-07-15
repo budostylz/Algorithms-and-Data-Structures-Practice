@@ -52,3 +52,6 @@ def say_hello(n):
 
 ```
 
+
+![Computational Complexity](https://github.com/budostylz/Algorithms-and-Data-Structures-Practice/blob/Efficiency/computational_complexity.PNG)
+
