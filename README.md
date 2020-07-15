@@ -87,5 +87,5 @@ function decode(n):
 
 ```
 
-![Step Count Method.](https://github.com/budostylz/Algorithms-and-Data-Structures-Practice/blob/Efficiency/Step%20Count%20Method.pdf)
+[Step Count Method.](https://github.com/budostylz/Algorithms-and-Data-Structures-Practice/blob/Efficiency/Step%20Count%20Method.pdf)
 
