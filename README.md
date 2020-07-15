@@ -16,10 +16,10 @@
         
 3. Design the Algorithm
 4. Prove Correctness: Incorporate Mathematical Proofs
+5. Analyse the Algorithm
+6. Code the Algorithm
 
 
-
-  
 
 [Algorithm Design & Analysis Process | What are the steps to design an algorithm ?](https://www.youtube.com/watch?v=6BWvV4xVh8U&list=PLftH_KTPtiBKPAbFwv0srGgzxVZFm65JX)
 
