@@ -9,7 +9,11 @@
 1. Understand Problem
 2. Decide On:
 
-        a. dsdsd
+        a. Computational Means: What system will this algorithm be incorporated?
+        b. Exact vs. Approximate Solving: Are the outputs exact or approximate values?
+        c. Data Structures: What data structure(s) will this algorithm use?
+        d. Algorithm Design Techniques: Divide and Conquer
+  
 
 [Algorithm Design & Analysis Process | What are the steps to design an algorithm ?](https://www.youtube.com/watch?v=6BWvV4xVh8U&list=PLftH_KTPtiBKPAbFwv0srGgzxVZFm65JX)
 
