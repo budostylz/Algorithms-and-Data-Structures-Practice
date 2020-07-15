@@ -6,6 +6,10 @@
 
 ## Algorithm Design & Analysis Process | What are the steps to design an algorithm?
 
+1. Understand Problem
+2. Decide On:
+    a. dsdsd
+
 [Algorithm Design & Analysis Process | What are the steps to design an algorithm ?](https://www.youtube.com/watch?v=6BWvV4xVh8U&list=PLftH_KTPtiBKPAbFwv0srGgzxVZFm65JX)
 
 [Pseudocode Editor](https://app.code2flow.com/flowcharts/5f0f59b82f2c18a4ee65b925)
