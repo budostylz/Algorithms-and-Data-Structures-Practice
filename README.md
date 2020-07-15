@@ -1,5 +1,15 @@
 [Algorithm Design & Analysis Process | What are the steps to design an algorithm ?](https://www.youtube.com/watch?v=6BWvV4xVh8U&list=PLftH_KTPtiBKPAbFwv0srGgzxVZFm65JX)
 
+[Big-O notation in 5 minutes — The basics](https://www.youtube.com/watch?v=__vX2sjlpXU)
+
+[Proving that 1+2+3+...+n is n(n+1)/2](http://www.maths.surrey.ac.uk/hosted-sites/R.Knott/runsums/triNbProof.html)
+
+[Step Count Method to Measure Time Complexity of an Algorithm - Part 1](https://www.youtube.com/watch?v=53sC2ioHUM0)
+
+[Step Count Method to Measure Time Complexity of an Algorithm - Part 2](https://www.youtube.com/watch?v=lcAq5bID_zs)
+
+[Time Complexity - Operation Count Method](https://www.youtube.com/watch?v=rL1GdFEJ6c4)
+
 # Efficiency
 
 ## Quantifying Efficiency
@@ -61,4 +71,19 @@ For example, instead of saying "this relationship has a linear rate of increase"
 
 
 ![Computational Complexity](https://github.com/budostylz/Algorithms-and-Data-Structures-Practice/blob/Efficiency/computational_complexity.PNG)
+
+## Big O Notation
+
+```python
+
+function decode(n):
+    create output string
+    for each letter in n: # O(n + 2)
+        get new_letter from letter's location in cipher
+        add new_letter to output
+    return output
+
+
+
+```
 
