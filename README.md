@@ -13,6 +13,12 @@
         b. Exact vs. Approximate Solving: Are the outputs exact or approximate values?
         c. Data Structures: What data structure(s) will this algorithm use?
         d. Algorithm Design Techniques: Divide and Conquer
+        
+3. Design the Algorithm
+4. Prove Correctness: Incorporate Mathematical Proofs
+
+
+
   
 
 [Algorithm Design & Analysis Process | What are the steps to design an algorithm ?](https://www.youtube.com/watch?v=6BWvV4xVh8U&list=PLftH_KTPtiBKPAbFwv0srGgzxVZFm65JX)
