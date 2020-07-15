@@ -59,7 +59,6 @@ We should note that when people refer to the rate of increase of an algorithm, t
 
 For example, instead of saying "this relationship has a linear rate of increase", we could instead say, "the order of this relationship is linear".
 
-On the next page, we'll introduce something called Big O Notation, and you'll see that the "O" in the name refers to the order of the rate of increase.
 
 ![Computational Complexity](https://github.com/budostylz/Algorithms-and-Data-Structures-Practice/blob/Efficiency/computational_complexity.PNG)
 
